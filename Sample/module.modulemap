@@ -1,0 +1,5 @@
+module PrivateModule {
+    
+    header "CardIO/CardIO.h"
+    export *
+}
